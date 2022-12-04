@@ -4,8 +4,9 @@ Finding good initial parameters for the Quantum Approximate Optimisation Algorit
 
 The goal is to improve quantum optimisation through classical methods.
 
-Qiubo Team - Qiskit Fall Fest 2022
-Adin Minguela Gallardo
-Francisco Del-Rio
-José Ezpinoza
-Renata Martínez Saez
+Qiubo Team - Qiskit Fall Fest 2022.
+
+1) Adin Minguela Gallardo.
+2) Francisco Del-Rio.
+3) José Ezpinoza.
+4) Renata Martínez Saez.

@@ -1,10 +1,4 @@
-# Welcome to Entropica Labs Challenge!
-
-Every Algorithm has a Beginning!
-
-The success of a QAOA depends, among many factors, on the choice of initial parameters. Choose poorly, and training will be lengthy and complex. Choose wisely, and you may stand a chance to see the QAOA succeed!
-
-## The tasks
+##Solving the number partitioning problem using OpenQAOA
 
 Finding good initial parameters for the Quantum Approximate Optimisation Algorithm is very complex. In this task, you'll have a go at this problem!
 

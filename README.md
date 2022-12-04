@@ -1,4 +1,4 @@
-##Solving the number partitioning problem using OpenQAOA
+## Solving the number partitioning problem using OpenQAOA
 
 Finding good initial parameters for the Quantum Approximate Optimisation Algorithm is very complex. In this task, you'll have a go at this problem!
 
